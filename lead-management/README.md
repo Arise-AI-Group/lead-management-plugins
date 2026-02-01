@@ -5,7 +5,7 @@ Capture leads, prep for discovery calls, follow up automatically, manage proposa
 ## Installation
 
 ```bash
-claude plugins add lead-management-plugins/lead-management
+claude plugins add lead-management-plugin/lead-management
 ```
 
 ## Quick Start

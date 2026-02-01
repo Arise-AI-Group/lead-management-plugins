@@ -25,7 +25,7 @@ Built by [Arise AI Group](https://arisegroup.ai) for small businesses that need 
 
 ```bash
 # Install the plugin
-claude plugins add lead-management-plugins/lead-management
+claude plugins add lead-management-plugin/lead-management
 
 # Or install from the marketplace
 claude plugins add lead-management
