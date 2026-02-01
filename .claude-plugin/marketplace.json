@@ -1,0 +1,16 @@
+{
+  "name": "lead-management-marketplace",
+  "owner": {
+    "name": "Arise AI Group"
+  },
+  "metadata": {
+    "description": "Lead management plugins for small businesses - capture, nurture, and convert leads"
+  },
+  "plugins": [
+    {
+      "name": "lead-management",
+      "source": "./",
+      "description": "Complete lead-to-revenue pipeline management - capture leads, prep for discovery calls, follow up automatically, manage proposals, track contracts, and nurture prospects"
+    }
+  ]
+}
